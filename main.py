@@ -3,7 +3,7 @@ import logging
 import rds_config
 import pymysql
 #rds settings
-rds_host  = "***"
+rds_host  = ""
 name = rds_config.db_username
 password = rds_config.db_password
 db_name = rds_config.db_name
